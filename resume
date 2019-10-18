@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+<div class="father">
+
+<!-- <div class="gutter-example">
+        <div nz-row nzGutter="16">
+          <div nz-col class="gutter-row" nzSpan="4" nzOffset="1">
+             
+            <div class="title">resume</div>
+          </div>
+        </div> -->
+
+        <nz-tag [nzColor]="'#108ee9'"  id="tag">Resume</nz-tag>
+      <!-- </div> -->
+
+<br>
+<div>
+<div class="title2">全民简历</div>
+<div class="title3">  求职意向:    市场销售相关工作</div>
+
+<ul >   
+  <li class="line"> <dl class="text">生日：1998-05-12</dl> <dl class="text1">现居：安徽省合肥市</dl>  </li>
+  <li  class="line"> <dl class="text">电话:18756969800</dl> <dl class="text1"> 邮箱：1606289469@qq.com </dl>  </li>
+ </ul>   
+</div>
+<div class="son"> HELLO
+
+</div>
+
+</div>
+
+
+<div class="icon">
+        <div>
+         <i nz-icon nzType="right-circle"  [nzTheme]="'twotone'" style="font-size: 32px;" class="iconcontent"></i>
+          <div class="titlecontent">   教育背景
+          </div>
+        </div>
+</div> 
+
+      <div class="line1"></div>
+     
+      <div class="content">
+         <ul>
+          <li class="content1">2012.09-2016.06 </li>
+          <li class="content2">   西南石油大学   </li>
+          <li class="content3">  物流管理(本科)</li>
+          <br>
+          <br>
+          <li>主修课程:石油及天然气运输概要，新能源开发；</li>
+          <li>在校活动:参加新疆石油计划 </li>
+        </ul> 
+      </div>     
+         
+      <div class="icon">
+        <div>
+         <i nz-icon nzType="right-circle"  [nzTheme]="'twotone'" style="font-size: 32px;" class="iconcontent"></i>
+          <div class="titlecontent">  工作经历
+          </div>
+        </div>
+</div>
+<div class="line1"></div>
+<div class="content">
+  <ul>
+   <li class="content1">2014.05-2015.05 </li>
+   <li class="content2">  约克逊能源有限公司   </li>
+   <li class="content3">  销售实习生</li>
+   <br>
+   <br>
+
+ <ol>
+ <div> 工作描述:</div>
+ <li>拥有一定的能源知识，能跟好的完成公司产品的推广</li>
+ <li> 在职期间完成订单50余份，稳定客户12家</li>
+ <li>  锻炼了销售的商务沟通能力，从营销角度规划方案     </li> 
+ </ol>
+
+ </ul> 
+</div>
+
+   <div class="line1"></div>
+
+<div class="content">
+  <ul>
+   <li class="content1">2015.11-2016.05 </li>
+   <li class="content2">金山wps稻壳平台 </li>
+   <li class="content3"> 原创设计师</li>
+   <br>
+   <br>
+
+ <ol>
+ <div> 工作描述:</div>
+ <li>担任wps平面设计师，完成简历，ppt,表格等文档创作</li>
+ <li> 通过平台网站的深入研究，对网站运营，单品开发有一定心得</li>
+ <li> 对互联网有一定认识,对网络运营有一定心得。    </li> 
+ </ol>
+
+ </ul> 
+</div>   
+<!-- <hr width="1200px"> -->
+<div class="line3"></div>
+<br>
+<p>hello</p>
+</body>
+</html>
