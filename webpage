@@ -1,0 +1,257 @@
+
+<html lang="en">
+  <meta charset="UTF-8">
+  <meta name="referrer" content="never">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head></head>
+<body>
+    
+  <div class="background">
+  <h1 class="title">Hello  World</h1>
+  <div class="text">China is speeding up strategic plan,standards. traffic rules.
+    laws and regulations<br> on accident-incurreed liabilities for its smart
+    cae industy. Economic Information<br> Daily reported Thursday.
+  </div>
+
+  <div class="border">
+  <ul>
+   <li class="text2" > CREATE YOUR ACCOUNT</li>
+   <li class="text3">   IT is ABSOLUTELY FREE    </li>
+   <br> <br>
+  <form action="" class="form">
+ <input type="text" class="form1" style= "background-color:transparent;border:1;" name="t2" value=$content1 /> 
+ <input type="text"  class="form2" style= "background-color:transparent;border:1;" name="t2" value=$content1 />
+ <button class="form3"> SIGN-UP</button>
+</form>
+</ul>
+</div>
+<br>
+</div>
+
+<div  class="na">
+<ul class='nav'>
+<li>BOATLOADS OF AWESOME</li>
+<li>Ready-made,customizable,HTML<br>landing page sections   </li>
+</ul>
+
+<div class="nav2">
+  <div>
+<ul>
+    <!-- D:\mydemo\src\assets\img\icon2.png -->
+<li> <img src="assets/img/icon.gif">  </li>
+<li>       Mobile First                    </li>
+<li>       All moudle are bulit mobile-first for maximum
+          <br> device compatibility          
+</li>
+</ul>
+<ul>
+
+     <li> <img src="assets/img/icon3.png">  </li>
+     <li>       Fluid Typography                   </li>
+     <li>      On different screen sizes.fonts automagically
+                  <br> scale with  the viewport        
+     </li>
+ </ul>
+  
+</div>
+ <div>
+  
+   <ul>
+
+      <li> <img src="assets/img/icon2.png" >  </li>
+      <li>       Accessibility                </li>
+      <li>      Support for IE8,mobile and tablet devices.
+                <br> screenreaders and color blind        
+      </li>
+    </ul>
+  <ul>
+
+     <li> <img src="assets/img/icon4.png">  </li>
+     <li>      Customization                  </li>
+     <li>       Make any design your own using the Style
+                      <br> Editor. Personalize fonts colors.and layouts to
+                      <br>create the custom look you want     
+    </li>
+   </ul>
+</div>
+
+</div>
+</div>
+<br><br>
+<div class="second">
+
+<div class="background2">
+<div class="leftcontent">
+<ul> Supportive polices<br> for China's smart<br> car</ul>
+<ul>China will come up with its own smart car<br>
+    standards.traffic rules.laws and regulations<br>
+    relating to safety.according to the China<br>
+    Industry innovation Alliance for the Intelli-<br>
+    gent and Connected Vehicles.
+
+
+</ul>
+<ul>
+ <button class="button1" style="background-color: #E3E3E3;">CHECK OUT FEATURES</button>
+ <button  class="button2" style="background-color: transparent; color: #E3E3E3;"> TRY PRODUCT FOR FREE</button>
+  
+</ul>
+
+</div>
+
+<div class="rightcontent">
+
+<div class="yj">
+<div class="yjj">
+ <ul>  资料</ul>
+ <ul>这里有一些教程，文档或示列可以帮助你学习</ul>
+ <ul>  <img src="assets/img/test_19.png">          
+        <img src="assets/img/test_21.png">  
+       <img src="assets/img/test_22.png">  
+
+</ul>
+</div>
+</div>
+ </div>
+</div>
+<br><br><br>
+
+ <div class="bottomTitle">  Try Our Awesome Products </div> <br> <br>
+<div class="bottomcontent">
+ 
+<ul>
+  <li><img src="assets/img/test_33.png"></li>  
+  <li>LiJun,a China Academy of Engi- <br>
+    neering academician and also<br>
+    director of the alliance's experts'<br>
+    committee.said that China will<br>also
+    launch design guidance for smart cars.<br> smart map
+    architec-<br>true and standards for test<br>
+    grounds
+  </li>
+
+</ul>
+
+<ul>
+    <li><img src="assets/img/test_36.png"></li>  
+    <li>LiJun,a China Academy of Engi- <br>
+      neering academician and also<br>
+      director of the alliance's experts'<br>
+      committee.said that China will<br>also
+      launch design guidance for smart cars.
+      <br> smart map
+      architec-<br>true and standards for test<br>
+      grounds
+    </li>
+  
+  </ul>
+  
+  <ul>
+      <li><img src="assets/img/test_38.png"></li>  
+      <li>LiJun,a China Academy of Engi- <br>
+        neering academician and also<br>
+        director of the alliance's experts'<br>
+        committee.said that China will<br>also
+        launch design guidance for smart cars.<br> smart map
+        architec-<br>true and standards for test<br>
+        grounds
+      </li>
+    
+    </ul>
+    
+</div>
+</div>
+<hr>
+<div class="third">
+<ul>
+<li><img src="assets/img/test_43.png"></li>
+
+<li>Learn How to improve Your
+  <br> Personal Business 
+</li>
+ <li>
+LiJun,a China Academy of Engineering <br>
+academician and also director of the<br>
+alliance's experts' committee.said that<br>
+China will also launch design guidance<br>
+for smart cars.smart map architecture<br>
+and standards for text grounds
+ </li>
+</ul>
+
+ <ul>
+
+<li>Choose  Between Two Beautifully<br> 
+    Designed Color Schemes
+</li> 
+<li>
+ China will come up with its own smart <br>
+ cars standards. traffic rules.laws and reg-<br>
+ ulations relating to safety. according to <br>
+ the China Industry Innovation Alliance<br>
+ for the Intelligent and Connected <br>
+ Vehicles
+</li>
+
+<li><img src="assets/img/test_47.png"></li>
+</ul> 
+</div>
+<hr style="margin-top: 1700px; height: 3px;">
+<div class="forth">
+<ul>Our Awesome Crew</ul>
+<ul> Our unique online teaching style makes learning easy for evesryone
+      Whether you <br>are trying to land a new job.brush up on your skills
+
+</ul>
+<ul> <img src="assets/img/test_50.png" > <img src="assets/img/test_51.png" > </ul>
+<ul> <img src="assets/img/test_53.png" > <img src="assets/img/test_55.png" > </ul>
+
+</div>
+<br>
+<br>  
+<hr>
+<div class="five">
+<table  style="border:1px solid black;">
+<tr> FELL FREE TO WRITE US </tr>
+<tr> <input type="text"  value="E-mail">  </tr>
+<br>
+<tr> <input type="text"  value="Subject">  </tr>
+<br>
+<tr> <textarea  value="E-mail"> </textarea>  </tr>
+<tr>       <button> SEND</button>              </tr>
+</table>
+
+<div class="Conect">
+<ul style="font-size: 3rem; font-weight: 400;" >  Contacts  </ul>
+<ul>  Make any design your own using the Style<br>
+      Editor. Personalize fonts colors.and layouts to<br>
+      create the custom look you want.
+</ul>
+<br>
+<ul style="font-weight: 800;">  <img src= "assets/img/test_60.png">  
+    360 King Street<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     Feastrvale Trevose, PA 19057
+</ul>
+<ul  style="font-weight: 800;">
+<img src="assets/img/test_63.png">
+(755)564-84-12
+
+</ul>
+
+<ul  style="font-weight: 800;">
+<img src="assets/img/test_67.png">
+younname@mail
+
+
+</ul>
+
+</div>
+
+
+
+
+
+
+
+</div>
