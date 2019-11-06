@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="newpractices.js">  </script>
+</head>
+<body >
+<!--<p id="q"> qQ</p>-->
+<!--<button onclick="f()">  hello</button>-->
+<p>点击显示年龄</p>
+<p>年龄:<input type="text" id="ageText"> </p>
+<button onclick="checkAge()"> 点击</button>
+<p id="result" value="s"></p>
+<hr>
+<button onclick="checkTime()"> 点击 </button>
+<p id="time"></p>
+<hr>
+<button onclick="checkDay()">点击 </button>
+<p id="day"> </p>
+<hr>
+<button onclick="checkNumber()">点击这里</button>
+<p id="demo"></p>
+<hr>
+<p id="person">点击下面的按钮，循环遍历对象 "person" 的属性。</p>
+<button onclick="checkPerson()">点击这里</button>
+<hr>
+ <button onclick="checkcopy()">遍历对象</button>
+ <p id="copy"></p>
+<hr>
+<p id="break">点击按钮，测试带有 break 语句的循环。</p>
+<button onclick="checkBreak()">点击这里</button>
+<hr>
+<p>对象可以设置为 <b>undefined</b> 来清空。</p>
+<p id="object"></p>
+<p id="string"></p>
+<script>
+    document.getElementById("object").innerHTML=
+        typeof null
+
+    // parseInt()
+  document.getElementById("string").innerHTML=String(123)
+   document.write( typeof  123)
+
+</script>
+<button onclick="this.style.background='red' "> hello </button>
+<br>
+<input type="text" id="number" autofocus required>
+<button onclick="myFunction()">点我</button>
+<p id="number1"></p>
+
+
+<input  type="text" id="p1">
+<button onclick="Age()">   按钮    </button>
+<p id="p2"></p>
+<hr>
+<p id="d"></p>
+
+<script>
+
+var person={
+    name:"宋小虎",
+    age:12,
+    fun :function () {
+        return this.name
+
+    }
+
+}
+document.getElementById("d").innerHTML=person.fun()
+
+
+
+</script>
+<hr>
+<button onclick="this.style.display='none' ">
+点一下我就消失</button>
+<hr>
+
+
+<p id="stringbuffer"></p>
+
+
+
+
+<script>
+
+    var text =' {"sites" : [' +
+        '{ "name":"Runoob" , "url":"www.runoob.com" },' +
+        '{ "name":"Google" , "url":"www.google.com" },' +
+        '{ "name":"Taobao" , "url":"www.taobao.com" } ]}'
+    obj=JSON.parse(text)
+    document.getElementById("stringbuffer").innerHTML=obj.sites[2].name
+
+</script>
+<p id="season"></p>
+<script>
+    //  var season='{"sites":['+
+    //   '{"name":"song" ,"age":"12"}, '+
+    //  '{"name":"wang","age":"22"} ]}'
+    //      obj=JSON.parse(season)
+    // document.getElementById("season").innerHTML=obj.sites[0].age
+
+    var school={ "name":"xumiao","age":22       }
+
+
+
+    str_pretty1 = JSON.stringify(school)
+    document.write("<pre>" +  str_pretty1  + "</pre>" ); // pre 用于格式化输出
+
+     var student={"name":"song" ,"age":"22"}
+       str=JSON.stringify(student)
+
+        document.write(str)
+
+</script>
+
+<p id="student" onclick="this.style.color='red'">TRF</p>
+</body>
+</html>
