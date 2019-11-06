@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <link rel="stylesheet" type="text/css" href="Page.css">
+</head>
+<body>
+<div id="head">
+
+    <div  class="head1"><img  id="picture0"  src="\untitled2\picture\back_btn.png"> 返回</div>
+    <div id ="head2" >   积分攻略</div>
+<br>
+<br>
+
+<br>
+    <img src="\untitled2\picture\banner1.jpg">
+</div>
+<br><br><br><br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<div class="text1">
+    <div class="picture1">
+    <img  id="p1" src="\untitled2\picture\icon_01.png">
+
+        <img id="p2" src="\untitled2\picture\arrow_down.png">
+    </div>
+    <div class="word">
+    <p style="font-size: 30px"> 获得荣誉</p>
+     <p style="color: #a9a9a9"> 参加公司级评选并获得称号</p>
+     </div>
+</div>
+<div id="div1">
+</div>
+
+<div class="text1">
+<div class="picture1">
+    <img src="\untitled2\picture\icon_02.png">
+</div>
+    <div class="word">
+    <p style="font-size: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;荣誉称号</p>
+     <p style="color: #a9a9a9"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在公司级人才培养专项等大型中获得荣誉称号  </p>
+</div>
+</div>
+
+
+<div id="div2">
+</div>
+
+<div class="text1">
+    <div class="picture1">
+    <img src="\untitled2\picture\icon_03.png">
+    </div>
+    <div class="word">
+        <p style="font-size: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;荣誉称号</p>
+        <p style="color: #a9a9a9"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在公司级人才培养专项中获得荣誉称号  </p>
+    </div>
+</div>
+<br>
+</div>
+
+<div class="text1">
+    <div class="picture1">
+    <img  id="p3"  src="\untitled2\picture\icon_04.png">
+        <img id="p4" src="\untitled2\picture\arrow_right.png">
+    </div>
+    <div class="word">
+   <p style="font-size: 30px"> 学习分享</p>
+     <p style="color: #a9a9a9">  每周分享</p>
+
+</div>
+</div>
+<br>
+
+
+
+<div class="text1">
+    <div class="picture1">
+    <img  src="\untitled2\picture\icon_05.png">
+</div>
+    <div class="word">
+        <p style="font-size: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目贡献</p>
+        <p style="color: #a9a9a9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;积极参加公司级项目达成，且有突出贡献</p>
+    </div>
+</div>
+<br>
+
+
+<div class="text1">
+    <div class="picture1">
+    <img src="\untitled2\picture\icon_06.png">
+    </div>
+    <div class="word">
+   <p style="font-size: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 绩效达成</p>
+    <p style="color: #a9a9a9">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;绩效系数为1.1及以上(S或A)  </p>
+</div>
+<br>
+
+<div id="background">
+    <div class="div01">  <img src="\untitled2\picture\foot_icon_defaul1.png">
+        <br>
+        积分排名
+    </div>
+    <div class="div02">
+
+        <img src="\untitled2\picture\foot_icon_defaul2.png">
+        <br>
+        积分商城
+    </div>
+    <div class="div03">
+
+        <img src="\untitled2\picture\foot_icon_on3.png">
+        <br>
+        <div id="word"> 我</div>
+    </div>
+
+
+</div>
+
+</body>
+</html>
