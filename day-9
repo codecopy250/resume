@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<header>
+<div class="headcontent">
+    <div class="txt1">  Logo </div>
+    <div class="txt2">
+        <a href="http://www.baidu.com" style="color: white">   Github    </a>
+        <a href="http://www.baidu.com" style="color: white">  Register   </a>
+        <a href="http://www.baidu.com" style="color: white">   Login    </a>
+    </div>
+
+</div>
+</header>
+<div class="banner">
+
+
+<ul>
+    <li>1 </li>
+    <li>2 </li>
+    <li>3 </li>
+    <li>4 </li>
+
+</ul>
+
+</div>
+
+<div class="nav">
+
+    <div class="circle" >      HOME              </div>
+    <div class="circle">     PROFILE              </div>
+    <div class="circle">       ABOUT              </div>
+
+</div>
+<div class="border"></div>
+<div class="content">
+<ul>
+    <li> This is Content1</li>
+    <li> MaybeContent2</li>
+    <li>  Content3</li>
+
+</ul>
+
+
+    <ul>
+        <li>  Content4</li>
+        <li>  Content5</li>
+        <li>  Content6</li>
+        <li>  Content7</li>
+
+    </ul>
+    <ul>
+        <li>  Content8</li>
+        <li>  Content9</li>
+        <li>  Content10</li>
+
+    </ul>
+
+</div>
+
+<footer>  <p>2018 life.baidu.com  </p>   </footer>
+
+
+<style>
+
+    ul li{
+        list-style-type: none;
+    }
+
+header{
+    width: 100%;
+    height: 54px;
+    background:#282828;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+    .headcontent{
+        width: 960px;
+        position: relative;
+
+
+    }
+    .txt1{
+        color: white;
+        font-size: 1.2rem;
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
+
+
+    }
+    .txt2{
+        position: absolute;
+        right: 0;
+
+    }
+    .banner{
+        width: 100%;
+        background: #77c641;
+        height: 200px;
+        position: relative;
+
+
+
+    }
+    .banner ul{
+        width: 960px;
+        position: absolute;
+        left: 50%;
+        bottom: 0px;
+        transform: translateX(-50%);
+        display: flex;
+        justify-content: flex-end;
+
+
+
+    }
+    .banner ul li{
+        width: 30px;
+        height: 35px;
+        background: white;
+        text-align: center;
+        border:1px solid;
+        margin: 0 5px;
+
+    }
+
+    .banner ul li:nth-child(2){
+        height: 55px;
+        border: 1px solid;
+        position: relative;
+        margin-top: -20px;
+    }
+
+
+    .nav{
+        width: 960px;
+        position: relative;
+        margin-top: 15px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+
+    }
+
+
+    .border{
+
+        border: 1px solid #80808042;
+        width: 100%;
+        margin-top: -2px;
+
+
+    }
+
+
+    .circle
+    {
+        font-size: 10px;
+        text-align: center;
+        border: 1px solid #a1a1a1;
+        padding: 12px 25px;
+        background: hsla(0, 0%, 50%, 0.11);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+
+    }
+
+    .circle:hover {
+        background: white;
+        border-bottom-width: 0px;
+
+    }
+    .content{
+        width: 960px;
+        margin:  0 auto;
+    }
+    .content ul{
+        display: flex;
+        padding-inline-start: 0px;
+
+
+    }
+    .content ul li{
+
+        height: 122px;
+        flex: 1;
+        margin-right: 80px;
+        margin-bottom: 80px;
+        border:1px solid #a1a1a1;
+        display: flex;
+        align-items: center;
+        justify-content: center
+
+    }
+    footer{
+        position:relative;
+        bottom: 0px;
+        width: 100%;
+        height: 75px;
+        background:#6c6c6c;
+        font-size: 10px;
+        color: white;
+        text-align: center;
+
+    }
+    footer p{
+        position: relative;
+        top:10px;
+    }
+
+
+</style>
+
+</body>
+</html>
