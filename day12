@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="left">
+<div class="icon">
+<div>
+
+    <img src="icon/12_15-(1)_03.png">
+    <img src="icon/12_15-(1)_06.png">
+    <img src="icon/12_15-(1)_08.png">
+    <img src="icon/12_15-(1)_10.png">
+
+</div>
+
+<div>
+    <img src="icon/12_15-(1)_12.png">
+    <img src="icon/12_15-(1)_14.png">
+</div>
+
+</div>
+
+<div class="menu">
+    <ul>
+        <img class="img1" src="icon/12_15-(1)_14.png">
+        <li style="color:gray">   MENU  </li>
+        <li> Overview</li>
+
+        <img class="img1" src="icon/10_09.png">
+        <li>   Sales  </li>
+        <li>   Your Staff                   </li>
+        <li>   Analytics & Targeting       </li>
+        <li>    What's New                 </li>
+
+    </ul>
+
+
+    <ul>
+        <img class="img1" src="icon/12_15-(1)_14.png" >
+        <li style="color: gray" >  YOUR PRODUCTS     </li>
+
+        <img class="img2" src="icon/11_01.png">
+        <li class="lis">Books                       </li>
+
+        <img class="img2" src="icon/11_02.png">
+        <li class="lis"> Stocks                     </li>
+
+        <img class="img2" src="icon/11_03 .png">
+        <li class="lis"> Tutorials                </li>
+
+        <img class="img2" src="icon/11_04.png">
+        <li class="lis"> infographics               </li>
+
+    </ul>
+
+<ul>
+    <img class="img1" src="icon/12_15-(1)_14.png">
+    <li style="color: gray"> DASHBOARD</li>
+    <img class="img1" src="icon/news_03.png">
+    <li>Messages</li>
+    <li>Connections</li>
+    <img class="img1" src="icon/news_06.png">
+    <li>  Integrations         </li>
+    <li>Account Settings</li>
+    <li>App Settings</li>
+
+</ul>
+
+   <div class="bottomicon">
+       &nbsp;&nbsp; Monthly Goals&nbsp;&nbsp;
+     <img src="icon/news_10.png">
+   </div>
+
+</div>
+
+</div>
+
+<div class="right">
+
+
+<div class="content1title">
+   <div class="content1title-left"> Messages</div>
+
+    <div class="content1title-right">
+        <img src="icon/news_11.png">
+        <div style="color: blue; float:right;margin: 8px 50px 0px 12px; position:relative;" >
+
+
+            Jordan J
+                 <div style="color: gray"> Administrator</div>
+
+        </div>
+  <img src="icon/news_13.png" style="position:absolute; right: 20px;top: 11px;">
+    </div>
+
+</div>
+
+
+    <div class="content1">
+        <ul >
+            <input type="text" value="Search">
+
+        </ul>
+
+        <ul class="content1-ul-2" >
+            <li style="color: gray"> Bessie Berry</li>
+            <li>
+                <button></button>
+                <button></button>
+
+
+            </li>
+
+            <li style="color: gray">
+
+                1 of 28
+            </li>
+
+            <li>
+                <button>     </button>
+                <button>         </button>
+                <button>         </button>
+
+            </li>
+
+
+        </ul>
+
+    </div>
+
+<div class="content2">
+<div class="content2-ul-1">
+    <ul>
+<img src="icon/new_01.png" style="float:left;   position:relative; padding-top: 29px;">
+           <li>
+                 <span style="list-style-type: initial;">Bessie Berry</span>
+                <br>
+               <span style="color:gray; font-size: 12px"> Twitter</span>
+          </li>
+          <li>3m</li>
+    </ul>
+
+      <ul style="position: relative">
+          <p> I pay for the 4Mb/sec down,
+            512Kb/sec up service
+            form O2. Infact,it's relatively quick,and stable...
+          </p>
+
+    <img src="icon/11_05.png" style="width: 40px; height: fit-content">
+
+    </ul>
+
+</div>
+
+
+<div class="content2-ul-2" >
+    <ul>
+
+    <img src="icon/new_01.png" style="height: fit-content;">
+
+    <li>    <span style="float: left; position:relative;left: 21px;">Bessie Berry</span>
+
+
+             <p style="color:gray; font-size: 15px;position:relative; left: 35px">    8:31AM</p>
+
+             <p style="  clear: left; position: relative; left: 21px;">
+                 Hi guys I've got the O2 package and have really slow internet.
+                 A speed check online said i can get 3 mbps but it seems more like
+                 0.5these days,just freezing and taking ages to open pages and open
+                 audio files for example. I have decide to the UPC package which to
+                 offers10 mbps but do you think get it?
+
+
+             </p>
+
+
+
+    </li>
+
+
+
+
+    </ul>
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+    <div class="content2">
+        <div class="content2-ul-1">
+            <ul>
+                <img src="icon/new_02.png" style="float:left">
+                <li>
+                    <span style="list-style-type: initial;">Victor Weber</span>
+                    <br>
+                    <span style="color:gray; font-size: 12px"> Adobe</span>
+                </li>
+                <li>8m</li>
+            </ul>
+
+            <ul style="position: relative">
+                <p>
+                    I shared this on my fb wall a few months back, and I
+                    thought I'd share it here agin because it is such great...
+
+                </p>
+
+            </ul>
+        </div>
+
+        <div class="content2-ul-2" style="border-bottom: 1px solid #80808054;" >
+            <ul>
+
+                <img src="icon/news_11.png" style="height: fit-content;">
+
+                <li>    <span style="float: left; position:relative;left: 21px;">Jordan Jackson</span>
+
+
+                    <p style="clor:gray; font-size: 15px;position:relative; left: 35px">    8:31AM</p>
+
+                    <p style="  clear: left; position: relative; left: 21px;">
+
+                        I have internet for 9 month and nevere could from the full
+                        capacity of 5 Mbit / s as it is by o 2 when it detect traffic
+                        on public p2 p sharing in my situation all my internet speed slows
+                        to 5 1 2 Kbit / s . I never had 4 0 0 KB / s on when downloading from
+                        p 2 p public servers like torrent emule etc . I downoad with 5 0 0 KB / s
+                        from private takers instead . So conlcusion o 2 block trafic on p 2 p connections . I have made hundreds of test in Italy and Sweden and Romania with the same file to doanload with the same setting and same antivirus and just needed to open ports in firewall and forward same ports and the speed was at full capacity in 1 minute . here in 9 month never had this luck
+                    </p>
+
+
+
+                </li>
+
+
+            </ul>
+
+        </div>
+
+     </div>
+
+
+
+    <div class="content2">
+        <div class="content2-ul-1">
+            <ul>
+                <img src="icon/new_03.png" style="float:left">
+                <li>
+                    <span style="list-style-type: initial;">Dustin Beson</span>
+                    <br>
+                    <span style="color:gray; font-size: 12px"> Facebook</span>
+                </li>
+                <li>Yesterday</li>
+            </ul>
+
+            <ul style="position: relative">
+                <p>
+                    if there is anyone who needs an invitation please
+                    add yourself in the comments of this post！
+                </p>
+
+
+
+            </ul>
+
+        </div>
+        <div class="content2-ul-2" >
+            <ul>
+
+                <img src="icon/new_01.png" style="height: fit-content;">
+
+                <li>    <span style="float: left; position:relative;left: 21px;">Bessie Berry</span>
+
+
+                    <p style="clor:gray; font-size: 15px;position:relative; left: 35px">    8:31AM</p>
+
+                    <p style="  clear: left; position: relative; left: 21px;">
+
+                        Funny comparison . so would the proper antivirus not slow down the internet as much or do you mean a freebie
+                        doenst protect the computer from viruses ?
+
+
+                    </p>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+
+
+
+
+        <div class="content2">
+        <div class="content2-ul-1">
+            <ul>
+                <img src="icon/new_04.png" style="float:left">
+                <li>
+                    <span style="color:#03a9f4;list-style-type: initial;">Jack Mason</span>
+                    <br>
+                    <span style="color:gray; font-size: 12px"> Yahoo</span>
+                </li>
+                <li>Yesterday</li>
+            </ul>
+
+            <ul style="position: relative">
+                <p>
+                    BrtueDC is a peer-to-peer movie+tv series sharing and
+                    downloading platform which works on intranet ins de...
+                </p>
+
+            </ul>
+
+        </div>
+
+
+            <div class="content2-ul-2" >
+                <ul>
+
+                    <img src="icon/news_11.png" style="height: fit-content;">
+
+                    <li>    <span style="float: left; position:relative;left: 21px;">Jordan Jackson</span>
+
+
+                        <p style="clor:gray; font-size: 15px;position:relative; left: 35px">    8:31AM</p>
+
+                        <p style="  clear: left; position: relative; left: 21px;">
+                            I pay for the 4 Mb / sec down , 512 Kb / sec up service from O2 , and haven t had any problems .
+                            In fact , it ' s relatively quick , and stable It ' s not perfect ,
+                            but l really don t have issues , as long as I keep track of what
+                            I ' m doing on it . I max out at about 3 Mb / sec down , and 350 Kb / sec up
+                            . Probably because of a noisy telephone line , not because I ' m being throttled .
+                            When my uploads go over 2 5 KB / sec ( note , bytes , not bits ) , my download speed suffers
+                            . This is expected , as downloads require upload bandwidth as well .
+                        </p>
+
+                    </li>
+
+                </ul>
+
+            </div>
+    </div>
+
+
+
+
+
+
+    <div class="content2">
+        <div class="content2-ul-1">
+            <ul>
+                <img src="icon/new_05.png" style="float:left">
+                <li>
+                    <span style="list-style-type: initial;">Stephen Shelton</span>
+                    <br>
+                    <span style="color:gray; font-size: 12px">Snapchat </span>
+                </li>
+                <li>13Jun</li>
+            </ul>
+
+            <ul style="position: relative">
+                <p>
+                    Yes,p2p traffic is often filtered(QoSed). Although i do
+                    use BT on O2 wires. and in good days dl speed...
+                </p>
+
+
+
+            </ul>
+
+        </div>
+
+
+        <div class="content2-ul-2" style="border-bottom: 1px solid #80808047">
+
+
+
+       <img src="icon/new_10.png" style="height: fit-content; padding-left: 70px">
+        <img src="icon/new_09.png" style="height: fit-content;" >
+
+
+    </div>
+
+    </div>
+
+
+
+    <div class="content2">
+        <div class="content2-ul-1">
+            <ul>
+                <img src="icon/new_06.png" style="float:left">
+                <li>
+                    <span style="list-style-type: initial;">Sally Wills </span>
+                    <br>
+                    <span style="color:gray; font-size: 12px"> Twitter</span>
+                </li>
+                <li>12Jun</li>
+            </ul>
+
+            <ul style="position: relative">
+                <p>
+                    Yes,it's O2: 'internet extreme'. which is no longer
+                    offered
+                </p>
+
+
+            </ul>
+
+        </div>
+        <div class="content2-ul-2" >
+            <ul>
+
+                <img src="icon/new_01.png" style="height: fit-content;">
+
+                <li>    <span style="float: left; position:relative;left: 21px;">Bessie Berry</span>
+
+
+                    <p style="clor:gray; font-size: 15px;position:relative; left: 35px">    8:31AM</p>
+
+                    <p style="  clear: left; position: relative; left: 21px;">
+
+
+                      I pay for the 4 Mb/sec down , 512Kb/sec up service from O2 . In fact , it's relatively quick , and stable It's not perfect
+                        out really don t have issues , as long as keep track of what I ,m doing on it
+
+
+                    </p>
+                </li>
+
+            </ul>
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+<div class="content2">
+    <div class="content2-ul-1">
+        <ul>
+            <img src="icon/new_07.png" style="float:left">
+            <li>
+                <span style="list-style-type: initial;">Dustin Beson</span>
+                <br>
+                <span style="color:gray; font-size: 12px"> Facebook</span>
+            </li>
+            <li>3m</li>
+        </ul>
+
+        <ul style="position: relative">
+            <p>
+                if there is anyone who needs an invitation please
+                add yourself in the comments of this post！
+
+            </p>
+
+        </ul>
+
+    </div>
+
+
+    <div class="content2-ul-2" ">
+
+     <div style="border: 1px solid gray; border: 1px solid gray;
+    width: 80%;
+    font-size: 14px;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    transform: translate(-50%, -50%);">
+
+         <button>按钮</button>
+    Well,kinda both but more of that second option,i've seen many systems infected and crawing
+        with
+    </div>
+
+</div>
